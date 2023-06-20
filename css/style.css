@@ -1,0 +1,40 @@
+#navbarSupportedContent .navbar-nav .nav-item .nav-link{
+    color: #c76767; 
+    
+} 
+
+
+.container-fluid .navbar-brand{
+    color: rgb(59, 94, 222);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.container-fluid .navbar-brand:hover{
+
+    color: rgb(17, 243, 17);
+    
+}
+.roadt{
+    color: aliceblue;
+}
+
+@media only screen and (max-width:576px) {
+    #navbarSupportedContent .navbar-nav .nav-item .nav-link{
+        color: #ffffff; 
+        
+}
+}
+
+.navbar .container-fluid{
+    margin: 3%;
+}
+#carouselExampleAutoplaying .carousel-inner .carousel-item{
+
+    max-height: 555px;
+    width: 50;
+
+}
+#carouselExampleAutoplaying .carousel-inner .carousel-item .carousel-caption{
+
+ background: rgba(11, 11, 11, 0.6);   
+}
